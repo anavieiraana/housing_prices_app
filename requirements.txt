@@ -1,8 +1,9 @@
 streamlit
 pandas
 numpy
-folium
-geopy
-scikit-learn
-geopandas
+folium==0.14.0
+geopandas==0.12.2
+geopy==2.3.0
+streamlit-folium==0.18.0
+
 
